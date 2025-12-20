@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtualenv
+venv/
+
+# Logs
+logs/
+
+# PyTorch
+*.pt
+*.pth
+
+# ROS2 / Gazebo
+build/
+install/
+log/
+
